@@ -31,3 +31,5 @@ archive/
 
 *.py[cod]
 *.egg-info/
+
+docs/adr/
